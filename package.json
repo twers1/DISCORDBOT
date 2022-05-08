@@ -1,0 +1,17 @@
+{
+    "name": "pingimusbot",
+    "version": "1.0.0",
+    "description": "music bot",
+    "scripts": {
+        "test": "ready"
+    },
+    "keywords": [
+        "bot",
+        "fmlspirit"
+    ],
+    "author": "twers1",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.6.0"
+    }
+}
